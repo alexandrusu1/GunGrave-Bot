@@ -1,1 +1,1 @@
-# gungravebot
+# Moderating-Fun Discord Bot
